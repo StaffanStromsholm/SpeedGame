@@ -8,17 +8,17 @@
 }
 
 .green.active {
-    background-color: green;
+    background-color: rgb(57, 126, 57);
 }
 
 .blue.active {
-    background-color: blue;
+    background-color: rgb(84, 84, 250);
 }
 
 .red.active {
-    background-color: red;
+    background-color: rgb(253, 92, 92);
 }
 
 .yellow.active {
-    background-color: yellow;
+    background-color: rgb(250, 250, 101);
 }

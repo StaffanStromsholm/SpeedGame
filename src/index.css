@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 body {
-  font-family: Arial;
+  font-family: 'Orbitron', sans-serif;
   background-image: linear-gradient(
     to right top,
-    #4d0155,
-    #8e0055,
-    #c12948,
-    #e16031,
-    #eb9a12
+    #3f0246,
+    #00098e
   );
   background-attachment: fixed;
   text-align: center;
