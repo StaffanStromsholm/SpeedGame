@@ -1,0 +1,24 @@
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    margin: 1rem;
+}
+
+.green.active {
+    background-color: green;
+}
+
+.blue.active {
+    background-color: blue;
+}
+
+.red.active {
+    background-color: red;
+}
+
+.yellow.active {
+    background-color: yellow;
+}

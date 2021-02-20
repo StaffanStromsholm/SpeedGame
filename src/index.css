@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+  font-family: Arial;
+  background-image: linear-gradient(
+    to right top,
+    #4d0155,
+    #8e0055,
+    #c12948,
+    #e16031,
+    #eb9a12
+  );
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+}
+
+button {
+  font-family: inherit;
+  padding: 1rem;
+  margin: 1rem;
+  background: white;
+  box-shadow: 0 0 5px grey;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
