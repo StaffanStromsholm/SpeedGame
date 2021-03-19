@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Cresate React App](https://github.com/facebook/create-react-app).
 
 ## Task 5 - Reaction game
 
