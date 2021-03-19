@@ -3,8 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Task 5 - Reaction game
 
 This is a version of the classic reaction game.
-The randomized circle id's and and the clicked circle id's are stored in two separate arrays and are being compared on user click, that way it eliminates the possibilty to get points clicking many times on the same circle and makes it possible to be a "a bit behind" the currently active circle. No wrong presses allowed ;) A popup is shown when the game is over showing the score.
 
 ## Screenshots
-![Sreenshot1](./public/Screenshot1.png?raw=true "screenshot1")
-![Sreenshot2](./public/Screenshot2.png?raw=true "screenshot2")
+![Gif](Speedgame.gif "gif")
+![Screenshot](Speedgame2.png "Screenshot")
